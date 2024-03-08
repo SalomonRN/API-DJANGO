@@ -2,7 +2,7 @@
 
 ## Recomendaciones.
 ### Usar entorno virtual. En una carpeta usar el comando " py -m venv {nombre_del_entorno} " par iniciarlo. 
-### Ya depues seleccionar desde VisualCode el interprete a utilizar, para esto oprimir CtrilIzq + Shit + P, despues colocar " >python: Select Interpreter " y seleccionar el interprete parecido a la siguiente iamgen:
+### Ya depues seleccionar desde VisualCode el interprete a utilizar, para esto oprimir CtrlIzq + Shit + P, despues colocar " >python: Select Interpreter " y seleccionar el interprete parecido a la siguiente iamgen:
 
 ![image](https://github.com/SalomonRN/API-DJANGO/assets/109772788/636144cd-d0e5-421b-bcb7-be6dbef1230a)
 
