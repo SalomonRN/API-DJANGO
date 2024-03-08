@@ -8,6 +8,6 @@ router = routers.DefaultRouter()
 router.register(r'api/Estudiante', EstudianteViewSet, 'Estudiante')
 
 urlpatterns = [
-    path("api/v1/", include(router.urls)), 
+    path("", include(router.urls)), 
     path("docs/", include_docs_urls(title="EST"))
 ]
